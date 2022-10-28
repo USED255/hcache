@@ -26,7 +26,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"hcache/pkg/utils"
+	"github.com/used255/hcache/pkg/utils"
 	"log"
 	"os"
 	"path"

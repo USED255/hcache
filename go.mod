@@ -1,4 +1,4 @@
-module hcache
+module github.com/used255/hcache
 
 go 1.14
 
